@@ -24,7 +24,7 @@ Early identification of at-risk students can help educational institutions provi
 
 ## 📊 Dataset
 
-The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) (ID: 697).
+The dataset is sourced from [Kaggle - Predict Students' Dropout and Academic Success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
 
 ### Dataset Characteristics
 - **Source**: Portuguese higher education institutions
